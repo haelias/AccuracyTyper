@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/haelias/AccuracyTyper/static/css/main.9ef8c7f6.css",
+    "main.js": "/haelias/AccuracyTyper/static/js/main.5901833b.js",
+    "static/js/787.d3befce1.chunk.js": "/haelias/AccuracyTyper/static/js/787.d3befce1.chunk.js",
+    "index.html": "/haelias/AccuracyTyper/index.html",
+    "main.9ef8c7f6.css.map": "/haelias/AccuracyTyper/static/css/main.9ef8c7f6.css.map",
+    "main.5901833b.js.map": "/haelias/AccuracyTyper/static/js/main.5901833b.js.map",
+    "787.d3befce1.chunk.js.map": "/haelias/AccuracyTyper/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ef8c7f6.css",
+    "static/js/main.5901833b.js"
+  ]
+}
